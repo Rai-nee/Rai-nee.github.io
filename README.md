@@ -1,2 +1,2 @@
-# rai-nee.github.io
+# Rai-nee.github.io
 My web design journey
