@@ -314,7 +314,7 @@ h3{
     margin-right: -60%;
 }
 .row::after {
-
+    content: "";
     clear: both;
     display: table;
   }
